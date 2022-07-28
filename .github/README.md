@@ -5,7 +5,7 @@
 
 # IRON MAN VC PLAYER
 
-[SuryaMusic](https://github.com/zatrop/ironmanvcplayer) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[IRON MAN VC PLAYER](https://github.com/zatrop/ironmanvcplayer) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -32,7 +32,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 # ⚡️ Getting Started
 
-### Before deploying SuryaMusic , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
+### Before deploying IRON MAN VC PLAYER , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
 > If you want to start working with iron man vc player you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
@@ -60,8 +60,8 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 
 ```console
-shikhar@MacBook~ $ git clone https://github.com/SuryaModsYT/SuryaModsMusicBot
-shikhar@MacBook~ $ cd SuryaModsMusicBot
+shikhar@MacBook~ $ git clone https://github.com/zatrop/ironmanvcplayer
+shikhar@MacBook~ $ cd ironmanvcplayer
 shikhar@MacBook~ $ sudo bash setup
 ```
 > Setup will install each and every requirement, nodejs and pip packages automatically. After successfull installation of requirements , setup will ask you to input your vars.
