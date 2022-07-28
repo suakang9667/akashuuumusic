@@ -1,11 +1,11 @@
-<img src="https://telegra.ph/file/190061b48aa72fab70e25.jpg" align="right" width="200" height="200"/>
+
 
 <h3>⚠️ This repo is just a clone of YukkiMusic</a>. All credits goes to devs of YukkiMusicBot.</h3>
 
 
-# SuryaMusic
+# IRON MAN VC PLAYER
 
-[SuryaMusic](https://github.com/SuryaModsYT/SuryaModsMusicBot) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
+[SuryaMusic](https://github.com/zatrop/ironmanvcplayer) is a Powerful Telegram Music+Video Bot written in Python using Pyrogram and Py-Tgcalls by which you can stream songs, video and even live streams in your group calls via various sources.
 
 * Youtube, Soundcloud, Apple Music, Spotify, Resso and Telegram Audios & Videos support.
 * Written from scratch, making it stable and less crashes.
@@ -34,7 +34,7 @@ For more information on the technologies that power the AviaxMusic, check out th
 
 ### Before deploying SuryaMusic , please have a look towards [all available config vars](../config/README.md) , also please check [all available commands](../strings/command.yml) of the project.
 
-> If you want to start working with SuryaMusic you can either fork or import repo .
+> If you want to start working with iron man vc player you can either fork or import repo .
 > The official [documentation site](https://notreallyshikhar.gitbook.io/yukkimusicbot/) contains a lot of information. The best place to start is from the deployment section.
 > If you'd like to talk to us, join us on our [Telegram Group](https://telegram.me/SuryaBotsSupport)
 
@@ -88,9 +88,9 @@ Reach out to the maintainer at one of the following places:
 
 If you want to say **thank you** or/and support active development of SuryaMusic:
   
-- You Can Contact [SuryaModOwner](https://telegram.me/SuryaModOwner) on Telegram For Donation Towards This Music Bot.
+- You Can Contact [IRON MAN](https://telegram.me/ironmanfor_you) on Telegram For Donation Towards This Music Bot.
 
-- Add a [GitHub Star](https://github.com/SuryaModsYT/SuryaModsMusicBot) to the project.
+- Add a [GitHub Star](https://github.com/zatrop/ironmanvcplayer) to the project.
 - Fork the Repo :)
 
 ## 👨🏻‍💻 Authors & contributors
